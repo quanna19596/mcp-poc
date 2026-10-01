@@ -8,7 +8,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "server": "npx @modelcontextprotocol/inspector node server.js"
+    "server": "npx @modelcontextprotocol/inspector@latest node index.js"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.129.0",
